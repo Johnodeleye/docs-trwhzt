@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-tpsz6e.salamduit.xyz/sitemap.xml
